@@ -1,0 +1,54 @@
+li{
+	display: inline-block;
+/*	text-align: center;*/
+	margin: 1% auto;
+	border: 1px solid blue;
+	background-color: blue;
+	padding:2%;
+	font-weight:bold;
+	border-radius: 0.5em;
+	box-shadow:  3px 2px 10px -2px;
+}
+
+a:visited{
+	color: black;
+
+}
+#navigation{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	border: 2px solid black;
+}
+
+.dog, #chameleon, .cat, .leopard{
+	width: 80%;
+	margin: 2% auto;
+	text-align: center;
+}
+
+#kaya{
+	height: 20em;
+	width: 20em;
+}
+
+#pascal{
+	height: 25em;
+	width: 15em;
+}
+
+#cat, #leopard{
+	height: 15em;
+	width: 25em;
+}
+
+#wallpaper{
+	height: 25em;
+	width: 25em;
+}
+
+#error{
+	width: 40%;
+	margin: 0 auto;
+	text-align: center;
+}
